@@ -1,0 +1,13 @@
+asyncio
+base64
+datetime
+hashlib
+hmac
+numpy
+os
+pandas
+pandas_ta
+python-dotenv
+python-telegram-bot
+requests
+time
