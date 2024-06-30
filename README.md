@@ -1,5 +1,7 @@
 # Kucoin PumpDump Crypto Alerts Telegram Bot
 
+![Kucoin PumpDump Crypto Alerts Telegram Bot](./assets/screenshot.png?raw=true)
+
 ## Description
 
 The Kucoin PumpDump Crypto Alerts Telegram Bot is an automated system designed to monitor and analyse cryptocurrency pairs on the KuCoin exchange. It uses technical indicators to identify buying or selling opportunities based on price fluctuations and market trends. Alerts are sent through Telegram, allowing users to respond quickly to market changes.
@@ -48,10 +50,20 @@ API_PASSPHRASE=your_passphrase_here
 
 ## Usage
 
+### Selected USDT pars version
+
 To start the bot, run:
 
 ```bash
 python3 kucoin-pumpdump-crypto-alerts-telegram-bot-selected-usdt-pars.py
+```
+
+### All USDT pars version
+
+To start, run:
+
+```bash
+python3 kucoin-pumpdump-crypto-alerts-telegram-bot-all-usdt-pars.py
 ```
 
 ## Contributing
@@ -66,7 +78,7 @@ Contributions are always welcome! If you would like to contribute to the project
 
 ## Licence
 
-This project is licensed under the Attribution 4.0 International License - see the [CC-BY-4.0](CC-BY-4.0) file for details.
+This project is licensed under the Attribution 4.0 International License.
 
 ## Support
 
